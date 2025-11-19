@@ -1,4 +1,4 @@
-# EXP.-6-MEASUREMENT-OF-CAPACITANCE-USING-SCHERING-BRIDGE-1
+# EXP.-6-MEASUREMENT-OF--1
 
 ## AIM
 
@@ -22,21 +22,25 @@ N.B.:-
 Range of C2 and C4 = 100`pF` to 11.111`uF` (in steps of 100`pF`).
 Range of R3 and R4= `1  Ω` to `11111110  Ω`  (in steps of 1 `Ω`)
 
-Set Capacitor Value :
+Set Capacitor Value :0.01
 
-Measure Capacitor Value: 
+Measure Capacitor Value: 0.10
 
-The current voltmeter reading is: 
+The current voltmeter reading is: 5615.220444
 
-   Capacitor value (in uF):
+   Capacitor value (in uF):0.00010000
 
-   Resistance value (in Ω): 
+   Resistance value (in Ω): 1.0000
 
-   Dissipation Factor: 
+   Dissipation Factor: 3.1400e-7
 
 
   ## Circuit Diagram :
   <img width="461" height="424" alt="image" src="https://github.com/user-attachments/assets/9fb955cb-44e3-4b4d-a389-2f4628c50930" />
 
+  ## output
+
+<img width="1028" height="711" alt="image" src="https://github.com/user-attachments/assets/7ccd8b4e-2460-4f2c-ac24-5668447a22dd" />
 
 ## Result: 
+Thus the  Determine the Capacitance of an unknown Capacitor was successfully measured
